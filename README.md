@@ -7,7 +7,7 @@
   <a href="mailto:manikandant977@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/startwith.surya">
+  <a href="https://instagram.com/_.m_a_n_i_k_a_n_d_a_n_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
