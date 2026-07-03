@@ -59,6 +59,13 @@ Node.js    ███████████████████████
 
 ---
 
+### 📊 My Coding Language Journey
+<p align="center">
+  <img src="https://raw.githubusercontent.com/the-athiest/the-athiest/output/lang-race.gif" width="600"/>
+</p>
+
+---
+
 ### 📌 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
