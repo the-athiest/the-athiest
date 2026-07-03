@@ -68,24 +68,24 @@ Node.js    ███████████████████████
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikandan-t&theme=tokyonight&hide_border=true&background=00000000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-athiest&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikandan-t&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=the-athiest&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 ### 🌐 3D Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manikandan-t/manikandan-t/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/the-athiest/the-athiest/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manikandan-t&style=for-the-badge&color=blueviolet" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=the-athiest&style=for-the-badge&color=blueviolet" alt="visitor badge"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
