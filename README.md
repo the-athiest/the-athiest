@@ -73,10 +73,15 @@ Node.js    ███████████████████████
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-athiest&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
+
+---
+
+### 🌐 Contribution Snake
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=the-athiest&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/the-athiest/the-athiest/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+---
 
 ### 🤝 Let's Connect
 
