@@ -63,8 +63,8 @@ Node.js    ███████████████████████
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manikandan-t&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-t&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-athiest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-athiest&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
 <p align="center">
