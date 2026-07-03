@@ -18,6 +18,13 @@
 
 ---
 
+### 💡 Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
 ### 🚀 About Me
 - 🎓 **MERN Stack Course — 100% Completed** ✅
 - 💻 Skilled in: HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, MongoDB, Git
@@ -61,12 +68,7 @@ Node.js    ███████████████████████
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats-fawn-eight.vercel.app/api?username=the-athiest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="165" src="https://github-readme-stats-fawn-eight.vercel.app/api/top-langs/?username=the-athiest&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
-
+### 🔥 GitHub Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-athiest&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
@@ -77,9 +79,21 @@ Node.js    ███████████████████████
 
 ---
 
-### 🌐 3D Contribution Graph
+### 🌐 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/the-athiest/the-athiest/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  I'm actively looking for opportunities to start my journey as a developer.<br/>
+  Open to internships, junior roles, freelance work, and collaboration on interesting projects.<br/><br/>
+  <a href="mailto:manikandant977@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hello-%20💬-blueviolet?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
